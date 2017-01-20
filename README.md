@@ -1,2 +1,2 @@
 # roaka
-WeCode graduation project by Akram Sbaih, Omar Ganaem, Abood Saleh, Kareem Shaer, Rami Arafeh
+WeCode graduation project by Akram Sbaih, Omar Ganaem, Abdallah Saleh, Kareem Shaer, Rami Arafeh
